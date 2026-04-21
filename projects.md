@@ -38,7 +38,6 @@ Welcome to my professional project portfolio! Here I showcase my hands-on IT pro
 - 99.9% domain controller uptime
 - Centralized user management reducing IT workload by 40%
 
-📂 **[View Full Project Details](./projects/active-directory-setup.md)**
 
 ---
 
@@ -66,7 +65,6 @@ Here are my interactive data visualization projects created with Tableau:
 - Decreased average resolution time from 6 hours to 45 minutes
 - Enabled 24/7 support coverage
 
-📂 **[View Full Project Details](./projects/remote-support-system.md)**
 
 ---
 
@@ -86,7 +84,6 @@ Here are my interactive data visualization projects created with Tableau:
 - Achieved 98% uptime with proper maintenance
 - Page load speed improved to under 3 seconds
 
-🔗 **[Live Demo](https://your-demo-link.com)** | 📂 **[Project Details](./projects/company-website.md)**
 
 ---
 
@@ -106,7 +103,6 @@ Here are my interactive data visualization projects created with Tableau:
 - Achieved 99% device uptime through preventive maintenance
 - Reduced attendance processing time from 3 days to 2 hours
 
-📂 **[View Full Project Details](./projects/biometric-system.md)**
 
 ---
 
@@ -126,7 +122,6 @@ Here are my interactive data visualization projects created with Tableau:
 - Improved bandwidth allocation by 40%
 - Created comprehensive network documentation
 
-📂 **[View Full Project Details](./projects/network-upgrade.md)**
 
 ---
 
@@ -146,7 +141,6 @@ Here are my interactive data visualization projects created with Tableau:
 - 100% backup success rate for 12+ months
 - Reduced backup storage costs by 25% through deduplication
 
-📂 **[View Full Project Details](./projects/disaster-recovery.md)**
 
 ---
 
@@ -193,4 +187,4 @@ This portfolio is for professional demonstration purposes. For inquiries about m
 
 ---
 
-**Last Updated:** March 2026
+**Last Updated:** April 2026
