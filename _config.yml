@@ -1,3 +1,5 @@
+logo: /profile.png
+
 title: Christine Moige - IT Support Specialist|Data Analyst
 description: Professional portfolio showcasing IT support expertise and data analysis projects
 remote_theme: pages-themes/minimal@v0.2.0
@@ -9,6 +11,6 @@ email: moigechristinenyayiemi@gmail.com
 github_username: christinemoige
 linkedin_username: christine-moige  
 
-logo: /profile.png
+
 # Build settings
 markdown: kramdown
