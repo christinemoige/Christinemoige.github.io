@@ -12,11 +12,11 @@ linkedin:
 email: 
   username: moigechristinenyayiemi@gmail.com
 
-# Show these in sidebar
-show_downloads: false
 
 logo: /profile.png
 
 
+# Sidebar settings
+show_downloads: false
 # Build settings
 markdown: kramdown
