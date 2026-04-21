@@ -1,4 +1,4 @@
-title: Christine Moige - IT Support Specialist & Data Analyst
+title: Christine Moige - IT Support Specialist|Data Analyst
 description: Professional portfolio showcasing IT support expertise and data analysis projects
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
@@ -10,6 +10,5 @@ github_username: christinemoige
 linkedin_username: christine-moige  
 
 logo: /assets/images/profile.png
-logo: https://github.com/christinemoige.png?size=200
 # Build settings
 markdown: kramdown
